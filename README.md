@@ -1,4 +1,4 @@
-# TradeGPT on Binance
+# TradeGPT
 
 ```sh
 git clone https://github.com/solvepy/tradeGPT
